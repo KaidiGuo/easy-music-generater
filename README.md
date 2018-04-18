@@ -1,5 +1,6 @@
 # easy-music-generater
 An easy but troublesome 8bit music creater with only one hundred lines and very shabby functions
+
 一个简单又麻烦的8bit音乐生成器，只有一百行代码和非常简单粗暴的功能
 ***
 
